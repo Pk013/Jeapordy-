@@ -1,4 +1,4 @@
-const categoryIDs = [780, 25, 230, 215, 155, ]
+const categoryIDs = [780, 25, 230, 215, 155,]
 
 const grid = new JeopardyGrid({
     categoryIDs,
